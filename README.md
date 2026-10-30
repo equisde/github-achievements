@@ -14,3 +14,6 @@ GitHub Profile Achievements Showcase &amp; Quests
 - Verified: Quickdraw triggered on public issue #4
 - Verified: Pair Extraordinaire co-authored commit on public PR
 
+
+- Pair test with verified octocat noreply email
+
