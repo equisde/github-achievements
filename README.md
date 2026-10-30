@@ -9,3 +9,8 @@ GitHub Profile Achievements Showcase &amp; Quests
 
 - [x] Pull Shark: 16 PRs mergeadas (Nivel Bronce x2 alcanzado)
 
+
+### Public Verification Log
+- Verified: Quickdraw triggered on public issue #4
+- Verified: Pair Extraordinaire co-authored commit on public PR
+
