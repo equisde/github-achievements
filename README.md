@@ -6,3 +6,6 @@ GitHub Profile Achievements Showcase &amp; Quests
 - [x] Quickdraw: Cerrado en < 5 minutos
 - [x] Pair Extraordinaire: Commit co-autoreado con Octocat
 
+
+- [x] Pull Shark: 16 PRs mergeadas (Nivel Bronce x2 alcanzado)
+
