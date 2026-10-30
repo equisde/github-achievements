@@ -17,3 +17,6 @@ GitHub Profile Achievements Showcase &amp; Quests
 
 - Pair test with verified octocat noreply email
 
+
+- Testing equisde as co-author explicitly
+
