@@ -20,3 +20,6 @@ GitHub Profile Achievements Showcase &amp; Quests
 
 - Testing equisde as co-author explicitly
 
+
+- Pair Extraordinaire quest with verified collaborator @kensukekita
+
