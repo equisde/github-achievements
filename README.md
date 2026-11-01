@@ -23,3 +23,5 @@ GitHub Profile Achievements Showcase &amp; Quests
 
 - Pair Extraordinaire quest with verified collaborator @kensukekita
 
+
+- Verified Joint Collaboration Session: @equisde & @kensukekita (Pair Extraordinaire Quest)
