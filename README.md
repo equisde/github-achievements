@@ -25,3 +25,5 @@ GitHub Profile Achievements Showcase &amp; Quests
 
 
 - Verified Joint Collaboration Session: @equisde & @kensukekita (Pair Extraordinaire Quest)
+
+- Secondary account reciprocal verification: @kensukekita (Author) & @equisde (Co-Author)
